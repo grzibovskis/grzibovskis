@@ -1,4 +1,10 @@
+👋 Hi! My name is Verners.
+
+Little bit about me:
+
 [![MaterHead](https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)](https://www.vernersgrzibovskis.com/)
+
+
 
 <!--
 **grzibovskis/grzibovskis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
